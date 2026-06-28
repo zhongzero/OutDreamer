@@ -18,10 +18,11 @@ We propose OutDreamer, a DiT-based framework with efficient condition injection 
 Please cite our work if you think it is useful for your research.
 
 ```
-@article{zhong2025outdreamer,
+@article{zhong2026outdreamer,
   title={Outdreamer: Video outpainting with a diffusion transformer},
   author={Zhong, Linhao and Li, Fan and Huang, Yi and Liu, Jianzhuang and Pei, Renjing and Song, Fenglong},
-  journal={arXiv preprint arXiv:2506.22298},
-  year={2025}
+  journal={IEEE Transactions on Image Processing},
+  year={2026},
+  publisher={IEEE}
 }
 ```
