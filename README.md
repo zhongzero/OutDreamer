@@ -1,7 +1,7 @@
 ## 📣 Notifications
 *We regret to inform you that due to the company's open-source policy, the official release date for OutDreamer is yet to be determined. However, you can refer to **[OutDreamer reproducted by Linhao Zhong](https://github.com/zhongzero/OutDreamer-unofficial)**. We provide guidance throughout the reproduction process. We apologize for any inconvenience this may cause to those interested in our work.*
 
-# OutDreamer: Video Outpainting with a Diffusion Transformer (accepted by IEEE Transactions on Image Processing)
+# OutDreamer: Video Outpainting with a Diffusion Transformer (IEEE Transactions on Image Processing)
 
  <a href='https://arxiv.org/abs/2506.22298'><img src='https://img.shields.io/badge/arXiv-2506.22298-b31b1b.svg'></a> <a href='https://zhongzero.github.io/OutDreamer/'><img src='https://img.shields.io/badge/Project-Website-orange'></a> <a href='https://github.com/zhongzero/OutDreamer'><img src='https://img.shields.io/badge/Github-Code-green'></a> 
 
